@@ -5,6 +5,9 @@
   Link to working video:
   https://drive.google.com/file/d/1v0Xm--vCXEKVs38y4YiDDvDgGJee5TZH/view
   
+  ![shortvid](https://user-images.githubusercontent.com/87045456/135015702-7a78eede-d420-44b5-81d9-cfe8acc8111a.gif)
+
+  
   ![readmescreen](https://user-images.githubusercontent.com/87045456/135012711-7d606a86-2c4a-42fc-b2b8-cecac9f506fe.jpg)
   
   
