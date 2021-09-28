@@ -1,13 +1,13 @@
 # ReadMe Generator
 
-    ## Description
+  ## Description
 
-    You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+  You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
 
-    [![license](https://img.shields.io/badge/license-MITLicense-blue)](https://shields.io)
-    https://choosealicense.com/licenses/mit/
+  [![license](https://img.shields.io/badge/license-MITLicense-blue)](https://shields.io)
+  
 
-    ## Table of Contents 
+  ## Table of Contents 
   
   - [Title](#title)
   
@@ -26,11 +26,11 @@
   
   ## Installation
 
-  n/a
+  no installation reqiured
   
   ## Usage
 
-  run node in VS code
+  Use the terminal in VS code and use node index.js
 
   ## License
 
@@ -41,13 +41,13 @@
   
   ## Contribution
 
-  n/a
+  please fork in github
 
   ## Testing
 
-  run node in terminal and follow prompts  
+  to test please run program in VS code  
 
-  ## Questions
+  ## Contacts
 
   Github Profile: www.github.com/undefined
   Email: pphongsavath03@gmail.com
