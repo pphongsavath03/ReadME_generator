@@ -94,8 +94,7 @@ function generateMarkdown(data) {
 
   ${data.license}
   ${licenseLink}
-  ---
-  
+ 
   
   ## Contribution
 
