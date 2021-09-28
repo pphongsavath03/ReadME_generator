@@ -20,12 +20,12 @@ inquirer
         {
             type: "input",
             message: "Provide installation instructions if necessary.",
-            name: "install"
+            name: "installation"
         },
         {
             type: "input",
             message: "Provide instructions on how to use your program. ",
-            name: "usage"
+            name: "instructions"
         },
         {
             type: "input",
@@ -53,12 +53,9 @@ inquirer
             name: "license",
             choices: [
                 "MIT License",
-                "Code Project Open License (CPOL)",
-                "Common Development and Distribution License (CDDL)",
-                "Microsoft Public License (Ms-PL)",
-                "Mozilla Public License 1.1 (MPL 1.1)",
-                "Common Public License Version 1.0 (CPL)",
-                "Eclipse Public License 1.0",
+                "GNU AGPLv3",
+                "Boost Software License 1.0",
+                "Mozilla Public License 2.0",
                 "Apache License, Version 2.0"
             ]
         }
