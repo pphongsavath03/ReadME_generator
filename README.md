@@ -48,12 +48,7 @@
   Use Terminal in VS code to run program  
 
   ## Contacts
-
-<<<<<<< HEAD
-  Github Profile: https://github.com/undefined
-=======
   Github Profile: https://github.com/pphongsavath03
->>>>>>> 7b5234aefb5cbb7fe862ceeca56e49e0a3f6746e
   Email: pphongsavath03@gmail.com
   
   
