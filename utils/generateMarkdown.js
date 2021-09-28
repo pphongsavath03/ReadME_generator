@@ -61,6 +61,7 @@ function generateMarkdown(data) {
 
     ${data.description}
 
+    ${licenseBadge}
     ${licenseLink}
 
     ## Table of Contents 
@@ -103,7 +104,7 @@ function generateMarkdown(data) {
 
   ${data.testing}  
 
-  ## Questions
+  ## Contacts
 
   Github Profile: www.github.com/${data.username}
   Email: ${data.email}
