@@ -1,4 +1,4 @@
-# ReadMe Generator
+# Readme Generator
 
   ## Description
 
@@ -26,11 +26,11 @@
   
   ## Installation
 
-  no installation reqiured
+  please run program in terminal in VS code using node
   
   ## Usage
 
-  Use the terminal in VS code and use node index.js
+  n/a
 
   ## License
 
@@ -41,15 +41,15 @@
   
   ## Contribution
 
-  please fork in github
+  please fork from github repo
 
   ## Testing
 
-  to test please run program in VS code  
+  Use Terminal in VS code to run program  
 
   ## Contacts
 
-  Github Profile: www.github.com/undefined
+  Github Profile: https://github.com/undefined
   Email: pphongsavath03@gmail.com
   
 
